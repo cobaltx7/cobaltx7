@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manuel!
 
-I am an aspiring desktop support technician with an educational background in Computer Science and software development.
+I am an IT enthusiast with a love for IT networking, scripting, and cyber security.
 
 ## 🔐 My IT Projects
 
@@ -27,4 +27,5 @@ I am an aspiring desktop support technician with an educational background in Co
   - [TryHackMe CTFs](https://github.com/ManuelDogbatse/tryhackme_ctfs)
 
 ## 🗣️ Get in Touch
+
 <a href="https://linkedin.com/in/manuel-dogbatse" target="_blank">LinkedIn</a>
